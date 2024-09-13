@@ -1,2 +1,3 @@
-# cxmalloc
-context-specific malloc expansion to the CE toolchain malloc implementation
+### Hello World Demo
+
+Displays the text `Hello, World!` on the calculator.
